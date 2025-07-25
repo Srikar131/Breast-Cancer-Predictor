@@ -31,5 +31,5 @@ Follow these steps to set up and run the project on your own machine.
 
 ### 2. Clone the Repository
 ```bash
-git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-cd your-repository-name
+git clone https://github.com/Srikar131/Breast-Cancer-Predictor
+cd Breast-Cancer-Predictor
