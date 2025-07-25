@@ -13,14 +13,6 @@ A stylish and interactive web application built with Streamlit and Scikit-learn 
 
 ---
 
-## 🚀 Live Demo
-
-Here's a quick look at the app in action:
-
-*_(To make this look great, record a short GIF of you using the app and replace the placeholder below. You can use a free tool like Giphy Capture or ScreenToGif.)_*
-
-![App Demo GIF](https://i.imgur.com/your-gif-url.gif)  ---
-
 ## 🛠️ How to Run Locally
 
 Follow these steps to set up and run the project on your own machine.
